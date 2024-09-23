@@ -1,2 +1,2 @@
 # Data-Visualization-Assignments
-All were done in Tableau and Power BI
+All assignments were done in Tableau and Power BI
